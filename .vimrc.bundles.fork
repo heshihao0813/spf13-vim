@@ -1,0 +1,8 @@
+" Bundle
+Bundle 'leafgarland/typescript-vim'
+Bundle 'mxw/vim-jsx'
+
+" Unbundle
+UnBundle 'altercation/vim-colors-solarized'
+UnBundle 'kchmck/vim-coffee-script'
+UnBundle 'groenewege/vim-less'
